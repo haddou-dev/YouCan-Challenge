@@ -12,7 +12,7 @@ const users = [
     },
     {
       name: "Bob Johnson",
-      email: "bob.johnson@example.com",
+      email: "bob.john@example.com",
       image: "images/customer-3.jpg",
     },
     {
@@ -27,7 +27,7 @@ const users = [
     },
     {
       name: "Bob Johnson",
-      email: "bob.johnson@example.com",
+      email: "bob.john@example.com",
       image: "images/customer-5.jpg",
     },
     ,
@@ -43,7 +43,7 @@ const users = [
     },
     {
       name: "Bob Johnson",
-      email: "bob.johnson@example.com",
+      email: "bob.john@example.com",
       image: "images/customer-3.jpg",
     },
   ];
