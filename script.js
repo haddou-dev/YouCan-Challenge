@@ -96,7 +96,7 @@ const users = [
                   <p class="font-semibold text-gray-700 mb-2">
                     Applied on january 7,2020
                   </p>
-                  <div class="flex gap-x-3">
+                  <div class="flex gap-x-3 items-center">
                     <div class="bg-green-500 rounded-full">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
